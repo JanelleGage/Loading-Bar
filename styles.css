@@ -4,7 +4,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-color: black;
+    background-image: linear-gradient(to right bottom, #020c42, #1d032d, #1f001b, #17000c, #000000);
     color: lightgray;
     font-family: cursive;
 }
@@ -32,7 +32,7 @@ body {
 .loading-bar-front {
     position: absolute;
     height: 8px;
-    background-color: rgb(0, 152, 53);
+    background-color: rgb(129, 0, 152);
     width: 0%;
     border-radius: 10px;
     border: none;
